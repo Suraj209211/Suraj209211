@@ -1,22 +1,6 @@
-<span style="font-size: 48px; animation: glow 1s ease-in-out infinite;">
-Hi I am Suraj 
-</span>
-
-
-<style>
-    @keyframes glow {
-        0% {
-            text-shadow: 0 0 10px rgba(255,255,255,0.8);
-        }
-        50% {
-            text-shadow: 0 0 20px rgba(255,255,255,0.8);
-        }
-        100% {
-            text-shadow: 0 0 10px rgba(255,255,255,0.8);
-        }
-    }
-</style>
-
+<div>
+    SURAJ MAHAPATRA
+    </div>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
