@@ -1,5 +1,5 @@
 <div>
-    SURAJ MAHAPATRA
+    <h1><b>SURAJ MAHAPATRA</b></h1>
     </div>
 
 <!--START_SECTION:waka-->
