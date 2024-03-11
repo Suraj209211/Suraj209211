@@ -1,7 +1,20 @@
 <img src = "https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
-<h1 align="center">Hi 👋, I'm SURAJ</h1>
-<h3 align="center">A curious passionate developer, constantly striving to improve my skills and knowledge. A strong belief on research make my work more versatile.</h3>
+<h1 align="center">Hey there, fellow coder!</h1>
+<h3 align="center">I'm **Suraj, an undergraduate CS student at SRM University, India, on a mission to craft exceptional web experiences and unlock the power of MLOps. Whether you're a seasoned developer or just starting your coding journey, I'm excited to connect and share knowledge.
+
+**My Passions
+
+**Full-Stack Web Development: I thrive on building user-centric web applications that are not only functional but also visually appealing and engaging. I'm always up for tackling challenges on both the front-end and back-end, ensuring a seamless user experience.
+
+**MLOps: The world of MLOps fascinates me. I'm eager to learn and contribute to the smooth deployment, monitoring, and improvement of machine learning models. If you're working on an ML project, I'd love to chat about how MLOps can streamline your workflow!
+Let's Collaborate!
+
+I'm always on the lookout for opportunities to collaborate on intriguing projects, particularly those that involve full-stack development or MLOps. If you have a project in mind or simply want to discuss web development or MLOps, feel free to reach out! I'm always keen on learning from experienced developers and expanding my skillset.
+
+**Connect with Me!
+
+Drop me a line at [your email address]. Let's chat about code, cutting-edge technologies, or anything that sparks your curiosity. I'm here to connect, learn, and build something awesome together!.</h3>
 
 - 💬 Ask me about **Web Dev, Machine Learning**
 
