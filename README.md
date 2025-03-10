@@ -1,4 +1,4 @@
-**SURAJ MAHAPATRA**: A SAP ANAYSNT AT DELOITTE
+**SURAJ MAHAPATRA**: A SAP ANALYST AT DELOITTE
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?logo=linkedin)](https://www.linkedin.com/in/suraj-mahapatra-029211/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solutions-%23FFA116?logo=leetcode)](https://leetcode.com/DriveONe_Suraj002/)
