@@ -1,7 +1,10 @@
 <div align="center">
   
   <!-- Animated Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3800&pause=800&color=22D3EE&center=true&vCenter=true&width=680&lines=SURAJ+MAHAPATRA;Full-stack+Developer+%7C+SAP+Analyst+%40+Deloitte;AI%2FML+Engineering+%7C+Founder+%40+ADOCY&radius=0)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=500&repeat=false&width=800&height=100&lines=SURAJ+MAHAPATRA;ANALYST+%40+DELOITTE;DATA+ANALYTICS+AND+AI%2FML;FULL-STACK+DEVELOPER" alt="Typing SVG" />
+</p>
 
   <!-- Contact Badges -->
   [![LinkedIn](https://img.shields.io/badge/-CONNECT-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-mahapatra-029211/)
