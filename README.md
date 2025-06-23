@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Animated Header -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=SURAJ+MAHAPATRA;SAP+ANALYST+%40+Deloitte;FULL-STACK+SYSTEMS+ARCHITECT;MLOps+%7C+Cloud+Native+%7C+AI+Engineering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3800&pause=800&color=22D3EE&center=true&vCenter=true&width=680&lines=SURAJ+MAHAPATRA;Full-stack+Developer+%7C+SAP+Analyst+%40+Deloitte;AI%2FML+Engineering+%7C+Founder+%40+ADOCY&radius=0)](https://git.io/typing-svg)
 
   <!-- Contact Badges -->
   [![LinkedIn](https://img.shields.io/badge/-CONNECT-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-mahapatra-029211/)
