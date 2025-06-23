@@ -2,10 +2,8 @@
   
   <!-- Animated Header -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=500&repeat=false&width=800&height=100&lines=SURAJ+MAHAPATRA;ANALYST+%40+DELOITTE;DATA+ANALYTICS+AND+AI%2FML;FULL-STACK+DEVELOPER" alt="Typing SVG" />
-</p>
 
+ ![Profile banner - 11](https://github.com/user-attachments/assets/a1b08ada-0eb6-4ff3-a5f2-a6134113df39)
   <!-- Contact Badges -->
   [![LinkedIn](https://img.shields.io/badge/-CONNECT-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-mahapatra-029211/)
   [![LeetCode](https://img.shields.io/badge/-SOLUTIONS-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/DriveONe_Suraj002/)
